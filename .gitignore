@@ -1,0 +1,4 @@
+.vscode
+node_modules
+secrets.js
+.DS_STORE
